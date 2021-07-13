@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:SSE Arena Wembley Events
+X-WR-CALNAME:SSE Arena Wembley Events
+X-WR-CALDESC:SSE Arena Wembley events calendar
+TIMEZONE-ID:Europe/London
+X-WR-TIMEZONE:Europe/London
+END:VCALENDAR

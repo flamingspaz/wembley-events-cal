@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sebbo.net//ical-generator//EN
+NAME:Wembley Stadium Events
+X-WR-CALNAME:Wembley Stadium Events
+X-WR-CALDESC:Wembley Stadium events calendar
+TIMEZONE-ID:Europe/London
+X-WR-TIMEZONE:Europe/London
+END:VCALENDAR
